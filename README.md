@@ -7,4 +7,5 @@ https://www.winhelponline.com/blog/onedrive-launch-nothing-happens-disablefilesy
 
 How to connect to the grid, choose a node, and use matlab - [here](https://github.com/PhiliastidesLab/LabBook-wiki-/blob/main/gird_connect.png). 
 
+How to add a folder with your project (from the grid) on your computer - [here](https://github.com/PhiliastidesLab/LabBook-wiki-/blob/main/Map_drive.png).
 
