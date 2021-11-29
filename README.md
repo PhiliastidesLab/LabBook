@@ -4,3 +4,7 @@ In this repository you can read the Wiki for common admin tasks. Connecting to t
 
 How to allow OneDrive as a disk on your office computer. Download OneDrive and install. Sometimes (after an update) the icon will be in the start menu but the app won't open. This may solve it:
 https://www.winhelponline.com/blog/onedrive-launch-nothing-happens-disablefilesyncngsc/
+
+How to connect to the grid, choose a node, and use matlab - [here](https://github.com/PhiliastidesLab/LabBook-wiki-/blob/main/gird_connect.png). 
+
+
