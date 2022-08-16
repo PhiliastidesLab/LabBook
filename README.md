@@ -10,6 +10,7 @@ How to add a folder with your project (from the grid) on your computer - [here](
 # _The Grid for faster analysis_
 How to connect to the grid, choose a node, and use matlab - [here](https://raw.githubusercontent.com/PhiliastidesLab/LabBook-wiki-/main/gird_connect1.png).
 Read more about the grid [here](https://support.psy.gla.ac.uk/index.php/inst/grid).
+
 🔶 Running LDA on the grid allows to run multiple Matlab sessions at the same time. This is useful, when for example you'd like to reduce the time to run multiple participants. 
 * Go to the grid (via TightVNC on Windows or RealVNC on a Mac). 
 * Open a terminal and type `ssh compute-1-20`. In this example the node number is 1-20. Activity of nodes can bee seen [here](http://ccn00.psy.gla.ac.uk/ganglia/).
