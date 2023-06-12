@@ -15,7 +15,10 @@ Read more about the grid [here](https://support.psy.gla.ac.uk/index.php/inst/gri
 * Go to the grid (via TightVNC on Windows or RealVNC on a Mac). 
 * Open a terminal and type `ssh compute-1-20`. In this example the node number is 1-20. Activity of nodes can bee seen [here](http://ccn00.psy.gla.ac.uk/ganglia/).
 * Then in the same terminal type `matlab &`. This will open a Matlab window. 
+
+# _while on the grid you can run multiple matlab files (and scripts) at the same time!_
 * To open another Matlab, type `matlab &` in the same terminal (to run on the same node), or open a new terminal and repeat the above steps entering a new node number (e.g. ssh compute-1-21).
+
 
 # _EEG info_
 
