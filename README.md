@@ -35,4 +35,6 @@ Info on EEG cap with 64 electrodes with electrode potision and numbers
 ## Convert EEG to BIDS format: https://github.com/sccn/bids-matlab-tools.git
 
 # BlackBox Toolikt
-This toolkit is available in the EEG/MEG labs to test the timings of the stimulation and EEG triggers. This document contains  brief instructions to help with setting up the BlackBox Toolkit, as we often find ourselves having to relearn the process each time. [Instructions for BlackBox Toolkit.docx](https://github.com/PhiliastidesLab/LabBook-wiki-/blob/main/Instructions%20for%20BlackBox%20Toolkit.docx)  While is still recommended checking the full manual, there are a few details that aren't fully covered in it (full manual here https://www.blackboxtoolkit.com/docs/pdf/UserGuideV2.pdf )
+This toolkit is available in the EEG/MEG labs to test the timings of the stimulation and EEG triggers. 
+This document contains brief instructions to help with setting up the BlackBox Toolkit, as we often find ourselves having to relearn the process each time [Instructions for BlackBox Toolkit.docx](https://github.com/PhiliastidesLab/LabBook-wiki-/blob/main/Instructions%20for%20BlackBox%20Toolkit.docx)  
+While is still recommended checking the full manual (full manual here https://www.blackboxtoolkit.com/docs/pdf/UserGuideV2.pdf ), there are a few details that aren't fully covered in it and you might find the doc above helpful.
