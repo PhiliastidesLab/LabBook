@@ -28,7 +28,7 @@ For detailed EEG recording information Glasow Uni library has an electronic vers
 
 Info on EEG cap with 64 electrodes with electrode potision and numbers 
 
-## EEG cap 64. Brain vision [doc]([https://github.com/PhiliastidesLab/EEG_folders/blob/main](https://github.com/PhiliastidesLab/LabBook-wiki-/blob/main/BC-64-X28_Philiastides.pdf)
+## EEG cap 64. Brain vision [doc]([https://github.com/PhiliastidesLab/EEG_folders/blob/main](https://github.com/PhiliastidesLab/LabBook-wiki-/blob/main/BC-64-X28_Philiastides.pdf])
 
 ## Cap usage [log](https://docs.google.com/spreadsheets/d/1uSCQBgyfLt5m5uFhFGr-5tHs48YUQIHV/edit?usp=sharing&ouid=107561805852058488076&rtpof=true&sd=true)
 
