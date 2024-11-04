@@ -4,7 +4,7 @@ In this repository you can read the Wiki for EEG lab guidelines and common admin
 
 # Using the EEG lab
 
-Everyone accessing the EEG lab (241) should follow the guidelines in this document [EEG_lab_guidelines.doc](https://github.com/PhiliastidesLab/LabBook-wiki-/blob/main/eegLab241_guidelines.docx)  
+Everyone accessing the EEG lab (241) needs to follow the guidelines in this document: [EEG_lab_guidelines.doc](https://github.com/PhiliastidesLab/LabBook-wiki-/blob/main/eegLab241_guidelines.docx)  
 
 # One Drive setup and Map Driver
 How to allow OneDrive as a disk on your office computer. Download OneDrive and install. Sometimes (after an update) the icon will be in the start menu but the app won't open. This may solve it:
